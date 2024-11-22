@@ -2,7 +2,10 @@
 
 This project uses **TensorFlow Hub** and **transfer learning** for text classification on the **Quora Insincere Questions Classification** dataset.
 
-
+## Visualization of the dataset
+<img src="https://github.com/leovidith/quoraQuestions-Tensorflow/blob/main/images/box%20plot.png"  width="600">
+<img src="https://github.com/leovidith/quoraQuestions-Tensorflow/blob/main/images/output.png"  width="600">
+<img src="https://github.com/leovidith/quoraQuestions-Tensorflow/blob/main/images/heatmap.png" width="600">
 
 ---
 
