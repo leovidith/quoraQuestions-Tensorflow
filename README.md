@@ -1,14 +1,11 @@
+
 # Quora Insincere Questions Classification
 
 This project uses **TensorFlow Hub** and **transfer learning** for text classification on the **Quora Insincere Questions Classification** dataset.
 
----
-
 ## Overview
 
 This project aims to classify questions from the Quora dataset as either **sincere** or **insincere** using a deep learning model. By leveraging pre-trained TensorFlow Hub modules, the model is fine-tuned to predict the sincerity of questions based on their content. The task involves text preprocessing, model training, and performance evaluation.
-
----
 
 ## Features
 
@@ -17,19 +14,15 @@ This project aims to classify questions from the Quora dataset as either **since
 - **Task**: Binary classification (Sincere vs. Insincere questions)
 - **Framework**: TensorFlow 2 and `tf.keras`
 
----
-
 ## Results
 
 The following visualizations provide insights into the dataset:
 
-  ![Box Plot](https://github.com/leovidith/quoraQuestions-Tensorflow/blob/main/images/box%20plot.png)
+<img src="https://github.com/leovidith/quoraQuestions-Tensorflow/blob/main/images/box%20plot.png" width="600">
 
-  ![Output](https://github.com/leovidith/quoraQuestions-Tensorflow/blob/main/images/output.png)
+<img src="https://github.com/leovidith/quoraQuestions-Tensorflow/blob/main/images/output.png" width="600">
 
-  ![Heatmap](https://github.com/leovidith/quoraQuestions-Tensorflow/blob/main/images/heatmap.png)
-
----
+<img src="https://github.com/leovidith/quoraQuestions-Tensorflow/blob/main/images/heatmap.png" width="600">
 
 ## Sprint Features
 
@@ -53,12 +46,6 @@ The following visualizations provide insights into the dataset:
 - Optimize the model by adjusting hyperparameters and retraining.
 - **Deliverable**: Optimized model with performance evaluation.
 
----
-
 ## Conclusion
 
 The Quora Insincere Questions Classification project demonstrates the effectiveness of transfer learning using TensorFlow Hub modules for text classification tasks. The model successfully classifies questions into sincere and insincere categories. Future improvements can include exploring other pre-trained models and further hyperparameter tuning for better accuracy.
-
----
-
-Let me know if you'd like any further modifications!
