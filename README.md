@@ -23,13 +23,10 @@ This project aims to classify questions from the Quora dataset as either **since
 
 The following visualizations provide insights into the dataset:
 
-- **Box Plot**:
   ![Box Plot](https://github.com/leovidith/quoraQuestions-Tensorflow/blob/main/images/box%20plot.png)
 
-- **Output Visualization**:
   ![Output](https://github.com/leovidith/quoraQuestions-Tensorflow/blob/main/images/output.png)
 
-- **Heatmap**:
   ![Heatmap](https://github.com/leovidith/quoraQuestions-Tensorflow/blob/main/images/heatmap.png)
 
 ---
